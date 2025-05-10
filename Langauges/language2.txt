@@ -1,4 +1,4 @@
-S0->AC|XaZ1|XcC|C|DB|XaD|a|XbZ2
+S0->AC|XaZ1|XcC|C|DB|XaD|a|XbZ2|ε
 S->AC|XaZ1|XcC|C|DB|XaD|a|XbZ2
 S1->AC|XaZ1|XcC|C
 A->XaZ1
