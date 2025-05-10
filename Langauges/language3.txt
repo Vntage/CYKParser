@@ -1,0 +1,12 @@
+S0->WZ1|PZ3|WZ2|XaZ4|XbZ5|a|b|#|Z3X#|Z2Z3|X#W|X#P|#
+Z1->Z2Z3
+Z2->X#P|#
+Z3->X#W|#
+P->XaZ4|XbZ5|a|b|#|Z3X#
+Z4->PXa|a
+Z5->PXb|b
+W->XaW|XbW|X#W|a|b|#
+Xa->a
+Xb->b
+X3->#
+

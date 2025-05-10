@@ -1,0 +1,13 @@
+S0->AC|XaZ1|XcC|C|DB|XaD|a|XbZ2
+S->AC|XaZ1|XcC|C|DB|XaD|a|XbZ2
+S1->AC|XaZ1|XcC|C
+A->XaZ1
+Z1->AXb|b
+C->Xc|C
+S2->DB|XaD|a|XbZ2
+D->XaD|a
+B->XbZ2
+Z2->BXc|C
+Xa->a
+Xb->b
+Xc-c
