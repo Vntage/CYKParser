@@ -2,6 +2,8 @@
 
 > Note: Determines whether a string belongs to the inputted grammar/language, does not show table
 
+> Test langauges from the document are not named correctly for clarity, knowing which language is which, they must be renamed as below, to work properly.
+
 Language must be in a text file specifically named: "CFG.txt", One Grammar at a time.
 
 Empty strings (epsilon) are not supported. This means:
