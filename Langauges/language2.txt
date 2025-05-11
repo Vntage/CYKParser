@@ -10,4 +10,4 @@ B->XbZ2
 Z2->BXc|C
 Xa->a
 Xb->b
-Xc-c
+Xc->c
