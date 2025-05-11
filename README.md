@@ -2,9 +2,9 @@
 
 > Note: Determines whether a string belongs to the inputted grammar/language, shows table upon completion
 
-> Test are in their own named files for clarity, they must be put into the "CNF.txt" file to be used, as below
+> Test are in their own named files for clarity, they must be put into the "CNF.txt" file, but you may adjust as needed(file name, contents etc.)
 
-Language must be in a text file specifically named: "CNF.txt", One Grammar at a time.
+Language must be in a text file specifically named: "CNF.txt"(adjust file names or contents as need), One Grammar at a time.
 
 Grammar given must be in Chomsky Normal Form(CNF)
 
