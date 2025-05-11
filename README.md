@@ -1,6 +1,6 @@
 # How to Run and Any Dependencies and Assumptions:
 
-> Note: Determines whether a string belongs to the inputted grammar/language, shows table upon completion
+> Note: Determines whether a string belongs to the inputted grammar/language, shows table upon completion, excluding the empty string(epsilon).
 
 > Test are in their own named files for clarity, they must be put into the "CNF.txt" file, but you may adjust as needed(file name, contents etc.)
 
