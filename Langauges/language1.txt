@@ -1,5 +1,4 @@
-S0->SS|T1Z|ε
-S->SS|T1Z
-Z->ST2
+S0->S0S0|T1Z|ε
+Z->S0T2|T2
 T1->(
 T2->)
