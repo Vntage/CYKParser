@@ -6,12 +6,6 @@
 
 Language must be in a text file specifically named: "CNF.txt", One Grammar at a time.
 
-Empty strings (epsilon) are not supported. This means:
-
-     Input strings cannot be empty.
-
-     Grammar rules like A -> ε are not allowed.
-
 Grammar given must be in Chomsky Normal Form(CNF)
 
 String given should have appropriate terminals, i.e. terminals in the input string should have terminals in the alphabet of the language
