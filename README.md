@@ -14,3 +14,5 @@ String given should have appropriate terminals, i.e. terminals in the input stri
      Characters outside of the terminal alphabet will be accepted, but the cyk will always be parse to null, because it is unreachable
 
 To Run: Compile and then run, take care to ensure the "CNF.txt" is in the correct directory
+
+This Project was built for ICSI 409, Automata and Formal Languages. University at Albany.
